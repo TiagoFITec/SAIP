@@ -1,0 +1,7 @@
+path: C:\Users\Tiago\Documents\FITec\ComputerVision\SAIP\Datasets\Expandidas   # dataset root dir
+train: training  # train images
+val: validation  # val images
+names: 
+  0: O
+  1: Coluna
+  2: Canto
